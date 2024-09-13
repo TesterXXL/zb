@@ -1,0 +1,987 @@
+[
+  {
+    "name": "CH 1 : Nombres complexes",
+    "lesson": "forme algébrique",
+    "link": "https://api.prepaprofs.com/api/download/forrme%20algebrique.pdf"
+  },
+  {
+    "name": "CH 1 : Nombres complexes",
+    "lesson": "Réel positif",
+    "link": "https://api.prepaprofs.com/api/download/R%C3%A9el%20positif.pdf"
+  },
+  {
+    "name": "CH 1 : Nombres complexes",
+    "lesson": "Forme exponentielle et formule d’Euler",
+    "link": "https://api.prepaprofs.com/api/download/Forme%20exponentielle%20et%20formule%20d%E2%80%99Euler.pdf"
+  },
+  {
+    "name": "CH 1 : Nombres complexes",
+    "lesson": "Transformation de Cayley",
+    "link": "https://api.prepaprofs.com/api/download/Transformation%20de%20Cayley.pdf"
+  },
+  {
+    "name": "CH 1 : Nombres complexes",
+    "lesson": "Homographie",
+    "link": "https://api.prepaprofs.com/api/download/Homographie.pdf"
+  },
+  {
+    "name": "CH 1 : Nombres complexes",
+    "lesson": "Sommes classiques",
+    "link": "https://api.prepaprofs.com/api/download/Sommes%20classiques.pdf"
+  },
+  {
+    "name": "CH 1 : Nombres complexes",
+    "lesson": "Une inégalité",
+    "link": "https://api.prepaprofs.com/api/download/Une%20in%C3%A9galit%C3%A9.pdf"
+  },
+  {
+    "name": "CH 1 : Nombres complexes",
+    "lesson": "Positivement liées",
+    "link": "https://api.prepaprofs.com/api/download/Positivement%20li%C3%A9es.pdf"
+  },
+  {
+    "name": "CH 1 : Nombres complexes",
+    "lesson": "Racine carrée d’un nombre complexe",
+    "link": "https://api.prepaprofs.com/api/download/Racine%20carr%C3%A9e%20d%E2%80%99un%20nombre%20complexe.pdf"
+  },
+  {
+    "name": "CH 1 : Nombres complexes",
+    "lesson": "Racine carrée de deux façons",
+    "link": "https://api.prepaprofs.com/api/download/Racine%20carr%C3%A9e%20de%20deux%20fa%C3%A7ons.pdf"
+  },
+  {
+    "name": "CH 1 : Nombres complexes",
+    "lesson": "Presque des racines de l’unité",
+    "link": "https://api.prepaprofs.com/api/download/Presque%20des%20racines%20de%20l%E2%80%99unit%C3%A9.pdf"
+  },
+  {
+    "name": "CH 1 : Nombres complexes",
+    "lesson": "Variations sur les équations classiques",
+    "link": "https://api.prepaprofs.com/api/download/Variations%20sur%20les%20%C3%A9quations%20classiques.pdf"
+  },
+  {
+    "name": "CH 1 : Nombres complexes",
+    "lesson": "Degré plus grand",
+    "link": "https://api.prepaprofs.com/api/download/Degr%C3%A9%20plus%20grand.pdf"
+  },
+  {
+    "name": "CH 1 : Nombres complexes",
+    "lesson": "Lieu géométrique et arguments",
+    "link": "https://api.prepaprofs.com/api/download/Lieu%20g%C3%A9om%C3%A9trique%20et%20arguments.pdf"
+  },
+  {
+    "name": "CH 1 : Nombres complexes",
+    "lesson": "Lieu géométrique et modules",
+    "link": "https://api.prepaprofs.com/api/download/Lieu%20g%C3%A9om%C3%A9trique%20et%20modules.pdf"
+  },
+  {
+    "name": "CH 1 : Nombres complexes",
+    "lesson": "IPEIM-TD Complexe Ex 1",
+    "link": "https://api.prepaprofs.com/api/download/IPEIM-TD%20Complexe-Ex%201.pdf"
+  },
+  {
+    "name": "CH 1 : Nombres complexes",
+    "lesson": "IPEIM-TD Complexe-Ex 2",
+    "link": "https://api.prepaprofs.com/api/download/IPEIM-TD%20Complexe-Ex%202.pdf"
+  },
+  {
+    "name": "CH 1 : Nombres complexes",
+    "lesson": "IPEIM-TD Complexe-Ex 3",
+    "link": "https://api.prepaprofs.com/api/download/IPEIM-TD%20Complexe-Ex%203.pdf"
+  },
+  {
+    "name": "CH 1 : Nombres complexes",
+    "lesson": "DS1 EX 1 MP IPIN 2018",
+    "link": "https://api.prepaprofs.com/api/download/DS1%20EX%201%20MP%20IPIN%202018.pdf"
+  },
+  {
+    "name": "CH 1 : Nombres complexes",
+    "lesson": "DS1 EX 1 -P1-MP IPIN 2020",
+    "link": "https://api.prepaprofs.com/api/download/DS1%20EX%201%20-P1-MP%20IPIN%202020.pdf"
+  },
+  {
+    "name": "CH 1 : Nombres complexes",
+    "lesson": "DS1 EX 1 -P2-MP IPIN 2020",
+    "link": "https://api.prepaprofs.com/api/download/DS1%20EX%201%20-P2-MP%20IPIN%202020.pdf"
+  },
+  {
+    "name": "CH 1 : Nombres complexes",
+    "lesson": "M-TD Complexe-Ex 4",
+    "link": "https://api.prepaprofs.com/api/download/M-TD%20Complexe-Ex%204.pdf"
+  },
+  {
+    "name": "CH 1 : Nombres complexes",
+    "lesson": "M-TD Complexe-Ex 5",
+    "link": "https://api.prepaprofs.com/api/download/M-TD%20Complexe-Ex%205.pdf"
+  },
+  {
+    "name": "CH 1 : Nombres complexes",
+    "lesson": "M-TD Complexe-Ex 6",
+    "link": "https://api.prepaprofs.com/api/download/M-TD%20Complexe-Ex%206.pdf"
+  },
+  {
+    "name": "CH 1 : Nombres complexes",
+    "lesson": "Extrait DS1 MP IPIN 2018",
+    "link": "https://api.prepaprofs.com/api/download/Extrait%20DS1%20MP%20IPIN%202018.pdf"
+  },
+  {
+    "name": "CH 1 : Nombres complexes",
+    "lesson": "Extrait DS1 Partie 1-MP IP 2020",
+    "link": "https://api.prepaprofs.com/api/download/Extrait%20DS1%20Partie%201-MP%20IP%202020.pdf"
+  },
+  {
+    "name": "CH 1 : Nombres complexes",
+    "lesson": "Extrait DS1 Partie 2-MP IP 2020",
+    "link": "https://api.prepaprofs.com/api/download/Extrait%20DS1%20Partie%202-MP%20IP%202020.pdf"
+  },
+  {
+    "name": "CH 2 : Calcul algébrique",
+    "lesson": "Simpli?er!",
+    "link": "https://api.prepaprofs.com/api/download/Simpli%EF%AC%81er!.pdf"
+  },
+  {
+    "name": "CH 2 : Calcul algébrique",
+    "lesson": "Somme des entiers, des carrés",
+    "link": "https://api.prepaprofs.com/api/download/Somme%20des%20entiers,%20des%20carr%C3%A9s.pdf"
+  },
+  {
+    "name": "CH 2 : Calcul algébrique",
+    "lesson": "Un produit",
+    "link": "https://api.prepaprofs.com/api/download/Un%20produit.pdf"
+  },
+  {
+    "name": "CH 2 : Calcul algébrique",
+    "lesson": "Somme géométrique",
+    "link": "https://api.prepaprofs.com/api/download/Somme%20g%C3%A9om%C3%A9trique.pdf"
+  },
+  {
+    "name": "CH 2 : Calcul algébrique",
+    "lesson": "Sommes alternées",
+    "link": "https://api.prepaprofs.com/api/download/Sommes%20altern%C3%A9es.pdf"
+  },
+  {
+    "name": "CH 2 : Calcul algébrique",
+    "lesson": "Somme de puissances",
+    "link": "https://api.prepaprofs.com/api/download/Somme%20de%20puissances.pdf"
+  },
+  {
+    "name": "CH 2 : Calcul algébrique",
+    "lesson": "Somme et somme des carrés",
+    "link": "https://api.prepaprofs.com/api/download/Somme%20et%20somme%20des%20carr%C3%A9s.pdf"
+  },
+  {
+    "name": "CH 2 : Calcul algébrique",
+    "lesson": "Sommes doubles",
+    "link": "https://api.prepaprofs.com/api/download/Sommes%20doubles.pdf"
+  },
+  {
+    "name": "CH 2 : Calcul algébrique",
+    "lesson": "Sommation d’Abel",
+    "link": "https://api.prepaprofs.com/api/download/Sommation%20d%E2%80%99Abel.pdf"
+  },
+  {
+    "name": "CH 2 : Calcul algébrique",
+    "lesson": "Factorielle et coe?cients binomiaux",
+    "link": "https://api.prepaprofs.com/api/download/Factorielle%20et%20coe%EF%AC%83cients%20binomiaux.pdf"
+  },
+  {
+    "name": "CH 2 : Calcul algébrique",
+    "lesson": "TD1N",
+    "link": "https://api.prepaprofs.com/api/download/TD1N.pdf"
+  },
+  {
+    "name": "CH 2 : Calcul algébrique",
+    "lesson": "TD2N",
+    "link": "https://api.prepaprofs.com/api/download/TD2N.pdf"
+  },
+  {
+    "name": "CH 2 : Calcul algébrique",
+    "lesson": "TD3N",
+    "link": "https://api.prepaprofs.com/api/download/TD3N.pdf"
+  },
+  {
+    "name": "CH 2 : Calcul algébrique",
+    "lesson": "TD4N",
+    "link": "https://api.prepaprofs.com/api/download/TD4N.pdf"
+  },
+  {
+    "name": "CH 2 : Calcul algébrique",
+    "lesson": "TD5NAL",
+    "link": "https://api.prepaprofs.com/api/download/TD5NAL.pdf"
+  },
+  {
+    "name": "CH 2 : Calcul algébrique",
+    "lesson": "TD6NCA",
+    "link": "https://api.prepaprofs.com/api/download/TD6NCA.pdf"
+  },
+  {
+    "name": "CH 3 : Ensembles et Applications",
+    "lesson": "Partie d’une union",
+    "link": "https://api.prepaprofs.com/api/download/Partie%20d%E2%80%99une%20union.pdf"
+  },
+  {
+    "name": "CH 3 : Ensembles et Applications",
+    "lesson": "Lois de Morgan",
+    "link": "https://api.prepaprofs.com/api/download/Lois%20de%20Morgan.pdf"
+  },
+  {
+    "name": "CH 3 : Ensembles et Applications",
+    "lesson": "Di?érence symétrique",
+    "link": "https://api.prepaprofs.com/api/download/Di%EF%AC%80%C3%A9rence%20sym%C3%A9trique.pdf"
+  },
+  {
+    "name": "CH 3 : Ensembles et Applications",
+    "lesson": "Fonction caractéristique",
+    "link": "https://api.prepaprofs.com/api/download/Fonction%20caract%C3%A9ristique.pdf"
+  },
+  {
+    "name": "CH 3 : Ensembles et Applications",
+    "lesson": "Image directe et image réciproque",
+    "link": "https://api.prepaprofs.com/api/download/Image%20directe%20et%20image%20r%C3%A9ciproque.pdf"
+  },
+  {
+    "name": "CH 3 : Ensembles et Applications",
+    "lesson": "Un exemple avec des fonctions",
+    "link": "https://api.prepaprofs.com/api/download/Un%20exemple%20avec%20des%20fonctions.pdf"
+  },
+  {
+    "name": "CH 3 : Ensembles et Applications",
+    "lesson": "Bijection de IN dans Z",
+    "link": "https://api.prepaprofs.com/api/download/Bijection%20de%20IN%20dans%20Z.pdf"
+  },
+  {
+    "name": "CH 3 : Ensembles et Applications",
+    "lesson": "Composition, injectivité et subjectivité",
+    "link": "https://api.prepaprofs.com/api/download/Composition,%20injectivit%C3%A9%20et%20surjectivit%C3%A9.pdf"
+  },
+  {
+    "name": "CH 3 : Ensembles et Applications",
+    "lesson": "TD1EnN",
+    "link": "https://api.prepaprofs.com/api/download/TD1N.pdf"
+  },
+  {
+    "name": "CH 3 : Ensembles et Applications",
+    "lesson": "TD2EnN",
+    "link": "https://api.prepaprofs.com/api/download/TD2EnN.pdf"
+  },
+  {
+    "name": "CH 3 : Ensembles et Applications",
+    "lesson": "TD3EnN",
+    "link": "https://api.prepaprofs.com/api/download/TD3EnN.pdf"
+  },
+  {
+    "name": "CH 3 : Ensembles et Applications",
+    "lesson": "TD4EnN",
+    "link": "https://api.prepaprofs.com/api/download/TD4EnN.pdf"
+  },
+  {
+    "name": "CH 3 : Ensembles et Applications",
+    "lesson": "Extrait DS1  ",
+    "link": "https://api.prepaprofs.com/api/download/Extrait%20DS%20.pdf"
+  },
+  {
+    "name": "CH 3 : Ensembles et Applications",
+    "lesson": "Extrait DS 2017",
+    "link": "https://api.prepaprofs.com/api/download/TD6EnN.pdf"
+  },
+  {
+    "name": "CH 4 : Arithmétique ",
+    "lesson": "Divisibilité et identité remarquable",
+    "link": "https://api.prepaprofs.com/api/download/Divisibili%C3%A9%20et%20identit%C3%A9%20remarquable.pdf"
+  },
+  {
+    "name": "CH 4 : Arithmétique ",
+    "lesson": "Une relation de divisibilité",
+    "link": "https://api.prepaprofs.com/api/download/Une%20relation%20de%20divisibilit%C3%A9.pdf"
+  },
+  {
+    "name": "CH 4 : Arithmétique ",
+    "lesson": "Grands nombres divisibles",
+    "link": "https://api.prepaprofs.com/api/download/Grands%20nombres%20divisibles.pdf"
+  },
+  {
+    "name": "CH 4 : Arithmétique ",
+    "lesson": "Une équation de type Fermat",
+    "link": "https://api.prepaprofs.com/api/download/Une%20%C3%A9quation%20de%20type%20Fermat.pdf"
+  },
+  {
+    "name": "CH 4 : Arithmétique ",
+    "lesson": "Pour bien commencer",
+    "link": "https://api.prepaprofs.com/api/download/Pour%20bien%20commencer.pdf"
+  },
+  {
+    "name": "CH 4 : Arithmétique ",
+    "lesson": "Des équations de Bézout",
+    "link": "https://api.prepaprofs.com/api/download/Des%20%C3%A9quations%20de%20Bezout.pdf"
+  },
+  {
+    "name": "CH 4 : Arithmétique ",
+    "lesson": "Irrationnalité d’un quotient de logarithmes",
+    "link": "https://api.prepaprofs.com/api/download/Irrationnalit%C3%A9%20d%E2%80%99un%20quotient%20de%20logarithmes.pdf"
+  },
+  {
+    "name": "CH 4 : Arithmétique ",
+    "lesson": "Rationnels qui sont entiers",
+    "link": "https://api.prepaprofs.com/api/download/Rationnels%20qui%20sont%20entiers.pdf"
+  },
+  {
+    "name": "CH 4 : Arithmétique ",
+    "lesson": "EX1 ARN",
+    "link": "https://api.prepaprofs.com/api/download/EX1%20ARN.pdf"
+  },
+  {
+    "name": "CH 4 : Arithmétique ",
+    "lesson": "EX2ARN",
+    "link": "https://api.prepaprofs.com/api/download/EX2ARN.pdf"
+  },
+  {
+    "name": "CH 4 : Arithmétique ",
+    "lesson": "EX3ARN",
+    "link": "https://api.prepaprofs.com/api/download/EX3ARN.pdf"
+  },
+  {
+    "name": "CH 4 : Arithmétique ",
+    "lesson": "EX4ARN",
+    "link": "https://api.prepaprofs.com/api/download/EX4ARN.pdf"
+  },
+  {
+    "name": "CH 4 : Arithmétique ",
+    "lesson": "EX5ARN",
+    "link": "https://api.prepaprofs.com/api/download/EX5ARN.pdf"
+  },
+  {
+    "name": "CH 4 : Arithmétique ",
+    "lesson": "EX6ARN",
+    "link": "https://api.prepaprofs.com/api/download/EX6ARN.pdf"
+  },
+  {
+    "name": "CH 4 : Arithmétique ",
+    "lesson": "EX7ARN",
+    "link": "https://api.prepaprofs.com/api/download/EX7ARN.pdf"
+  },
+  {
+    "name": "CH 5 : Système linéaire , calculs matriciel ",
+    "lesson": "Sans problèmes",
+    "link": "https://api.prepaprofs.com/api/download/Sans%20probl%C3%A8mes.pdf"
+  },
+  {
+    "name": "CH 5 : Système linéaire , calculs matriciel ",
+    "lesson": "Système et interprétation géométrique",
+    "link": "https://api.prepaprofs.com/api/download/Syst%C3%A9me%20et%20interpr%C3%A9tation%20g%C3%A9om%C3%A9trique.pdf"
+  },
+  {
+    "name": "CH 5 : Système linéaire , calculs matriciel ",
+    "lesson": "Polynômes variant certaines propriétés",
+    "link": "https://api.prepaprofs.com/api/download/Polynomes%20v%C3%A9ri%EF%AC%81ant%20certaines%20propri%C3%A9t%C3%A9s.pdf"
+  },
+  {
+    "name": "CH 5 : Système linéaire , calculs matriciel ",
+    "lesson": "Fraction rationnelle",
+    "link": "https://api.prepaprofs.com/api/download/Fraction%20rationnelle.pdf"
+  },
+  {
+    "name": "CH 5 : Système linéaire , calculs matriciel ",
+    "lesson": "Identity remarkable",
+    "link": "https://api.prepaprofs.com/api/download/Identity%20remarkable.pdf"
+  },
+  {
+    "name": "CH 5 : Système linéaire , calculs matriciel ",
+    "lesson": "Commutate d’une matrices ?xe",
+    "link": "https://api.prepaprofs.com/api/download/Commutate%20d%E2%80%99une%20matrices%20%EF%AC%81xe.pdf"
+  },
+  {
+    "name": "CH 5 : Système linéaire , calculs matriciel ",
+    "lesson": "Produit non commutatif",
+    "link": "https://api.prepaprofs.com/api/download/Produit%20non%20commutatif.pdf"
+  },
+  {
+    "name": "CH 5 : Système linéaire , calculs matriciel ",
+    "lesson": "Produit égal à l’identité",
+    "link": "https://api.prepaprofs.com/api/download/Produit%20%C3%A9gal%20%C3%A0%20l%E2%80%99identit%C3%A9.pdf"
+  },
+  {
+    "name": "CH 5 : Système linéaire , calculs matriciel ",
+    "lesson": "Puissance n -i`eme - avec la formule du binôme",
+    "link": "https://api.prepaprofs.com/api/download/Puissance%20n%20-i%60eme%20-%20avec%20la%20formule%20du%20binome.pdf"
+  },
+  {
+    "name": "CH 5 : Système linéaire , calculs matriciel ",
+    "lesson": "Inverser une matrice sans calculs!",
+    "link": "https://api.prepaprofs.com/api/download/Inverser%20une%20matrice%20sans%20calculs!.pdf"
+  },
+  {
+    "name": "CH 6 : Structure algébrique ",
+    "lesson": "Un élément est son propre inverse",
+    "link": "https://api.prepaprofs.com/api/download/Un%20%C3%A9l%C3%A9ment%20est%20son%20propre%20inverse.pdf"
+  },
+  {
+    "name": "CH 6 : Structure algébrique ",
+    "lesson": "Quelques sous-groupes usuels",
+    "link": "https://api.prepaprofs.com/api/download/Quelques%20sous-groupes%20usuels.pdf"
+  },
+  {
+    "name": "CH 6 : Structure algébrique ",
+    "lesson": "Inversibles à coefficients dans Z ",
+    "link": "https://api.prepaprofs.com/api/download/Inversibles%20%C3%A0%20coe%EF%AC%83cients%20dans%20Z%20.pdf"
+  },
+  {
+    "name": "CH 6 : Structure algébrique ",
+    "lesson": "Union de deux sous-groupes",
+    "link": "https://api.prepaprofs.com/api/download/Union%20de%20deux%20sous-groupes.pdf"
+  },
+  {
+    "name": "CH 6 : Structure algébrique ",
+    "lesson": "Théorème de Lagrange",
+    "link": "https://api.prepaprofs.com/api/download/TTh%C3%A9or%C3%A8me%20de%20Lagrange.pdf"
+  },
+  {
+    "name": "CH 6 : Structure algébrique ",
+    "lesson": "Automorphisme intérieur",
+    "link": "https://api.prepaprofs.com/api/download/Automorphisme%20int%C3%A9rieur.pdf"
+  },
+  {
+    "name": "CH 6 : Structure algébrique ",
+    "lesson": "Ordre du produit de deux éléments",
+    "link": "https://api.prepaprofs.com/api/download/Ordre%20du%20produit%20de%20deux%20%C3%A9l%C3%A9ments.pdf"
+  },
+  {
+    "name": "CH 6 : Structure algébrique ",
+    "lesson": "Eléments  nilpotents",
+    "link": "https://api.prepaprofs.com/api/download/Elements%20%20nilpotents.pdf"
+  },
+  {
+    "name": "CH 6 : Structure algébrique ",
+    "lesson": "Anneau de Boole",
+    "link": "https://api.prepaprofs.com/api/download/Anneau%20de%20Boole.pdf"
+  },
+  {
+    "name": "CH 6 : Structure algébrique ",
+    "lesson": "Idéaux de Zp",
+    "link": "https://api.prepaprofs.com/api/download/Id%C3%A9aux%20de%20Zp.pdf"
+  },
+  {
+    "name": "CH 6 : Structure algébrique ",
+    "lesson": "Un morphisme de corps est injectif",
+    "link": "https://api.prepaprofs.com/api/download/Un%20morphisme%20de%20corps%20est%20injectif.pdf"
+  },
+  {
+    "name": "CH 6 : Structure algébrique ",
+    "lesson": "Q n’admet pas de sous-corps strict",
+    "link": "https://api.prepaprofs.com/api/download/Q%20n%E2%80%99admet%20pas%20de%20sous-corps%20strict.pdf"
+  },
+  {
+    "name": "CH 6 : Structure algébrique ",
+    "lesson": "Equations linéaires",
+    "link": "https://api.prepaprofs.com/api/download/Equations%20lin%C3%A9aires.pdf"
+  },
+  {
+    "name": "CH 6 : Structure algébrique ",
+    "lesson": "SATD1N",
+    "link": "https://api.prepaprofs.com/api/download/SATD1N.pdf"
+  },
+  {
+    "name": "CH 6 : Structure algébrique ",
+    "lesson": "SATD2N",
+    "link": "https://api.prepaprofs.com/api/download/SATD2N.pdf"
+  },
+  {
+    "name": "CH 6 : Structure algébrique ",
+    "lesson": "SATD2complN",
+    "link": "https://api.prepaprofs.com/api/download/SATD2complN.pdf"
+  },
+  {
+    "name": "CH 7 : Polynômes ",
+    "lesson": "Quelques équations",
+    "link": "https://api.prepaprofs.com/api/download/Quelques%20%C3%A9quations.pdf"
+  },
+  {
+    "name": "CH 7 : Polynômes ",
+    "lesson": "Le polynôme dérivé divise le polynôme",
+    "link": "https://api.prepaprofs.com/api/download/Le%20polynome%20d%C3%A9riv%C3%A9%20divise%20le%20polynome.pdf"
+  },
+  {
+    "name": "CH 7 : Polynômes ",
+    "lesson": "En pratique!",
+    "link": "https://api.prepaprofs.com/api/download/En%20pratique!.pdf"
+  },
+  {
+    "name": "CH 7 : Polynômes ",
+    "lesson": "Pgcd de deux polynômes",
+    "link": "https://api.prepaprofs.com/api/download/Pgcd%20de%20deux%20polynomes.pdf"
+  },
+  {
+    "name": "CH 7 : Polynômes ",
+    "lesson": "Polynômes définis par certaines valeurs",
+    "link": "https://api.prepaprofs.com/api/download/Polynomes%20d%C3%A9%EF%AC%81nis%20par%20certaines%20valeurs.pdf"
+  },
+  {
+    "name": "CH 7 : Polynômes ",
+    "lesson": "Décomposer!",
+    "link": "https://api.prepaprofs.com/api/download/D%C3%A9composer!.pdf"
+  },
+  {
+    "name": "CH 7 : Polynômes ",
+    "lesson": "EX1 TD POLY",
+    "link": "https://api.prepaprofs.com/api/download/EX1%20TD%20POLY.pdf"
+  },
+  {
+    "name": "CH 7 : Polynômes ",
+    "lesson": "EX2 TD POLY",
+    "link": "https://api.prepaprofs.com/api/download/EX2%20TD%20POLY.pdf"
+  },
+  {
+    "name": "CH 7 : Polynômes ",
+    "lesson": "EX3 TD POLY",
+    "link": "https://api.prepaprofs.com/api/download/EX3%20TD%20POLY.pdf"
+  },
+  {
+    "name": "CH 7 : Polynômes ",
+    "lesson": "EX4 TD POLY",
+    "link": "https://api.prepaprofs.com/api/download/EX4%20TD%20POLY.pdf"
+  },
+  {
+    "name": "CH 7 : Polynômes ",
+    "lesson": "EX5 TD POLY",
+    "link": "https://api.prepaprofs.com/api/download/EX5%20TD%20POLY.pdf"
+  },
+  {
+    "name": "CH 7 : Polynômes ",
+    "lesson": "TD IPEIN Polynôme de Legendre P1",
+    "link": "https://api.prepaprofs.com/api/download/TD%20IPEIN%20Polynome%20de%20Legendre.pdf"
+  },
+  {
+    "name": "CH 7 : Polynômes ",
+    "lesson": "TD IPEIN Polynôme de Legendre P2",
+    "link": "https://api.prepaprofs.com/api/download/TD%20IPEIN%20Polynome%20de%20Legendre%20P2.pdf"
+  },
+  {
+    "name": "CH 7 : Polynômes ",
+    "lesson": "TD IPEIN Bernoulli P1",
+    "link": "https://api.prepaprofs.com/api/download/TD%20IPEIN%20Bernouilli%20P1.pdf"
+  },
+  {
+    "name": "CH 7 : Polynômes ",
+    "lesson": "TD IPEIN Bernoulli P2",
+    "link": "https://api.prepaprofs.com/api/download/TD%20IPEIN%20Bernoulli%20P2.pdf"
+  },
+  {
+    "name": "CH 7 : Polynômes ",
+    "lesson": "Ex1 DS2 Algèbre  IPEIN 2020",
+    "link": "https://api.prepaprofs.com/api/download/Ex1%20DS2%20algebre%20%20IPEIN%202020.pdf"
+  },
+  {
+    "name": "CH 7 : Polynômes ",
+    "lesson": "Ex1 Comp DS N2 Alg MP 2020",
+    "link": "https://api.prepaprofs.com/api/download/Ex1%20Comp%20DS%20N2%20Alg%20MP%202020.pdf"
+  },
+  {
+    "name": "CH 7 : Polynômes ",
+    "lesson": "EX2 Alg DS2IPEIN2020",
+    "link": "https://api.prepaprofs.com/api/download/EX2%20Alg%20DS2IPEIN2020.pdf"
+  },
+  {
+    "name": "CH 7 : Polynômes ",
+    "lesson": "Ex2 Comp DS N2 Alg MP 2020",
+    "link": "https://api.prepaprofs.com/api/download/Ex2%20Comp%20DS%20N2%20Alg%20MP%202020.pdf"
+  },
+  {
+    "name": "CH 7 : Polynômes ",
+    "lesson": "TD IPEIN Tchebychev P1",
+    "link": "https://api.prepaprofs.com/api/download/TD%20IPEIN%20Tchebytchev%20P1.pdf"
+  },
+  {
+    "name": "CH 7 : Polynômes ",
+    "lesson": "Ex1DS2IPM2019",
+    "link": "https://api.prepaprofs.com/api/download/Ex1DS2IPM2019.pdf"
+  },
+  {
+    "name": "CH 7 : Polynômes ",
+    "lesson": "Ex2  ADS2  MP 2019 IPEIN ",
+    "link": "https://api.prepaprofs.com/api/download/Ex2%20%20ADS2%20%20MP%202019%20IPEIN%20.pdf"
+  },
+  {
+    "name": "CH 7 : Polynômes ",
+    "lesson": "problème PI   ADS2  MP 2019 IPEIN ",
+    "link": "https://api.prepaprofs.com/api/download/probleme%20PI%20%20%20ADS2%20%20MP%202019%20IPEIN%20.pdf"
+  },
+  {
+    "name": "CH 7 : Polynômes ",
+    "lesson": "problème   P2ADS2  MP 2019 IPEIN ",
+    "link": "https://api.prepaprofs.com/api/download/probleme%20%20%20P2ADS2%20%20MP%202019%20IPEIN%20.pdf"
+  },
+  {
+    "name": "CH 8 : Fractions rationnelles",
+    "lesson": "En pratique",
+    "link": "https://api.prepaprofs.com/api/download/En%20pratique.pdf"
+  },
+  {
+    "name": "CH 8 : Fractions rationnelles",
+    "lesson": "Un calcul de somme",
+    "link": "https://api.prepaprofs.com/api/download/Un%20calcul%20de%20somme.pdf"
+  },
+  {
+    "name": "CH 8 : Fractions rationnelles",
+    "lesson": "Racine carrée de X ",
+    "link": "https://api.prepaprofs.com/api/download/Racine%20carr%C3%A9e%20de%20X%20.pdf"
+  },
+  {
+    "name": "CH 8 : Fractions rationnelles",
+    "lesson": "Primitive de 1 X",
+    "link": "https://api.prepaprofs.com/api/download/Primitive%20de%201%20X.pdf"
+  },
+  {
+    "name": "CH 8 : Fractions rationnelles",
+    "lesson": "Polynôme et dérivé",
+    "link": "https://api.prepaprofs.com/api/download/Polynome%20et%20d%C3%A9riv%C3%A9.pdf"
+  },
+  {
+    "name": "CH 8 : Fractions rationnelles",
+    "lesson": "EX 1 Fraction P1",
+    "link": "https://api.prepaprofs.com/api/download/EX%201%20Fraction%20.pdf"
+  },
+  {
+    "name": "CH 8 : Fractions rationnelles",
+    "lesson": "EX 1 Fraction P2 ",
+    "link": "https://api.prepaprofs.com/api/download/EX%201%20Fraction%20P2%20.pdf"
+  },
+  {
+    "name": "CH 8 : Fractions rationnelles",
+    "lesson": "EX 2 Fraction ",
+    "link": "https://api.prepaprofs.com/api/download/EX%202%20Fraction%20.pdf"
+  },
+  {
+    "name": "CH 8 : Fractions rationnelles",
+    "lesson": "Ex 3 Fraction",
+    "link": "https://api.prepaprofs.com/api/download/Fraction%20rationnelle.pdf"
+  },
+  {
+    "name": "CH 9 : Espaces vectoriels",
+    "lesson": "Est-ce un sous-espace vectoriel",
+    "link": "https://api.prepaprofs.com/api/download/Est-ce%20un%20sous-espace%20vectoriel.pdf"
+  },
+  {
+    "name": "CH 9 : Espaces vectoriels",
+    "lesson": "Est-ce un sous-espace vectoriel (matrices) ",
+    "link": "https://api.prepaprofs.com/api/download/Est-ce%20un%20sous-espace%20vectoriel%20(matrices)%20.pdf"
+  },
+  {
+    "name": "CH 9 : Espaces vectoriels",
+    "lesson": "sous-espace vectoriel",
+    "link": "https://api.prepaprofs.com/api/download/sous-espace%20vectoriel.pdf"
+  },
+  {
+    "name": "CH 9 : Espaces vectoriels",
+    "lesson": "Réunion de deux sous-espaces vectoriels",
+    "link": "https://api.prepaprofs.com/api/download/R%C3%A9union%20de%20deux%20sous-espaces%20vectoriels.pdf"
+  },
+  {
+    "name": "CH 9 : Espaces vectoriels",
+    "lesson": "En somme directe",
+    "link": "https://api.prepaprofs.com/api/download/En%20somme%20directe.pdf"
+  },
+  {
+    "name": "CH 9 : Espaces vectoriels",
+    "lesson": "Périodiques et tend vers 0 à l’in?ni ",
+    "link": "https://api.prepaprofs.com/api/download/P%C3%A9riodiques%20et%20tend%20vers%200%20%C3%A0%20l%E2%80%99in%EF%AC%81ni%20.pdf"
+  },
+  {
+    "name": "CH 9 : Espaces vectoriels",
+    "lesson": "Avec des suites ",
+    "link": "https://api.prepaprofs.com/api/download/Avec%20des%20suites%20.pdf"
+  },
+  {
+    "name": "CH 9 : Espaces vectoriels",
+    "lesson": "Trouver un supplémentaire",
+    "link": "https://api.prepaprofs.com/api/download/Trouver%20un%20suppl%C3%A9mentaire.pdf"
+  },
+  {
+    "name": "CH 9 : Espaces vectoriels",
+    "lesson": "D’un système d’équations à un système générateur",
+    "link": "https://api.prepaprofs.com/api/download/D%E2%80%99un%20syst%C3%A8me%20d%E2%80%99%C3%A9quations%20%C3%A0%20un%20syst%C3%A8me%20g%C3%A9n%C3%A9rateur.pdf"
+  },
+  {
+    "name": "CH 9 : Espaces vectoriels",
+    "lesson": "Familles de fonctions",
+    "link": "https://api.prepaprofs.com/api/download/Familles%20de%20fonctions.pdf"
+  },
+  {
+    "name": "CH 9 : Espaces vectoriels",
+    "lesson": "TD1IPMEV",
+    "link": "https://api.prepaprofs.com/api/download/TD1IPMEV.pdf"
+  },
+  {
+    "name": "CH 9 : Espaces vectoriels",
+    "lesson": "TD3IPMEV",
+    "link": "https://api.prepaprofs.com/api/download/TD3IPMEV.pdf"
+  },
+  {
+    "name": "CH 9 : Espaces vectoriels",
+    "lesson": "TD4IPMEV",
+    "link": "https://api.prepaprofs.com/api/download/TD4IPMEV.pdf"
+  },
+  {
+    "name": "CH 9 : Espaces vectoriels",
+    "lesson": "TD5IPMEV",
+    "link": "https://api.prepaprofs.com/api/download/TD5IPMEV.pdf"
+  },
+  {
+    "name": "CH 9 : Espaces vectoriels",
+    "lesson": "TD6 -EV-IPEIM",
+    "link": "https://api.prepaprofs.com/api/download/TD6%20-EV-IPEIM.pdf"
+  },
+  {
+    "name": "CH 9 : Espaces vectoriels",
+    "lesson": "TD7-ev- IPEIM",
+    "link": "https://api.prepaprofs.com/api/download/TD7-ev-%20IPEIM.pdf"
+  },
+  {
+    "name": "CH 9 : Espaces vectoriels",
+    "lesson": "TD8-ev- IPEIM",
+    "link": "https://api.prepaprofs.com/api/download/TD8-ev-%20IPEIM.pdf"
+  },
+  {
+    "name": "CH 10 : Espaces vectoriels de dimension finie",
+    "lesson": "Bases",
+    "link": "https://api.prepaprofs.com/api/download/Bases.pdf"
+  },
+  {
+    "name": "CH 10 : Espaces vectoriels de dimension finie",
+    "lesson": "Bases et coordonnées avec des polynômes",
+    "link": "https://api.prepaprofs.com/api/download/Bases%20et%20coordonn%C3%A9es%20avec%20des%20polyn%C3%B4mes.pdf"
+  },
+  {
+    "name": "CH 10 : Espaces vectoriels de dimension finie",
+    "lesson": "Bases de polynômes et coordonnées ",
+    "link": "https://api.prepaprofs.com/api/download/Bases%20de%20polyn%C3%B4mes%20et%20coordonn%C3%A9es%20.pdf"
+  },
+  {
+    "name": "CH 10 : Espaces vectoriels de dimension finie",
+    "lesson": "Polynômes de Bernstein",
+    "link": "https://api.prepaprofs.com/api/download/Polyn%C3%B4mes%20de%20Bernstein.pdf"
+  },
+  {
+    "name": "CH 10 : Espaces vectoriels de dimension finie",
+    "lesson": "Polynômes de Lagrange",
+    "link": "https://api.prepaprofs.com/api/download/Polyn%C3%B4mes%20de%20Lagrange.pdf"
+  },
+  {
+    "name": "CH 10 : Espaces vectoriels de dimension finie",
+    "lesson": "Base dans un espace de matrices ",
+    "link": "https://api.prepaprofs.com/api/download/Base%20dans%20un%20espace%20de%20matrices%20.pdf"
+  },
+  {
+    "name": "CH 10 : Espaces vectoriels de dimension finie",
+    "lesson": "Suites arithmétiques ",
+    "link": "https://api.prepaprofs.com/api/download/Suites%20arithm%C3%A9tiques%20.pdf"
+  },
+  {
+    "name": "CH 10 : Espaces vectoriels de dimension finie",
+    "lesson": "Bases de sous-espaces vectoriels",
+    "link": "https://api.prepaprofs.com/api/download/Bases%20de%20sous-espaces%20vectoriels.pdf"
+  },
+  {
+    "name": "CH 10 : Espaces vectoriels de dimension finie",
+    "lesson": "TD -IPEIN EX1",
+    "link": "https://api.prepaprofs.com/api/download/TD%20-IPEIN%20EX1.pdf"
+  },
+  {
+    "name": "CH 10 : Espaces vectoriels de dimension finie",
+    "lesson": "TD IPEIN Ex 2",
+    "link": "https://api.prepaprofs.com/api/download/TD%20IPEIN%20Ex%202.pdf"
+  },
+  {
+    "name": "CH 10 : Espaces vectoriels de dimension finie",
+    "lesson": "TD  IPEIN  Exercice 3",
+    "link": "https://api.prepaprofs.com/api/download/TD%20%20IPEIN%20%20Exercice%203.pdf"
+  },
+  {
+    "name": "CH 10 : Espaces vectoriels de dimension finie",
+    "lesson": "TD  IPEIN  Exercice 4",
+    "link": "https://api.prepaprofs.com/api/download/TD%20%20IPEIN%20%20Exercice%204.pdf"
+  },
+  {
+    "name": "CH 10 : Espaces vectoriels de dimension finie",
+    "lesson": "Polynômes de Lagrange",
+    "link": "https://api.prepaprofs.com/api/download/Polyn%C3%B4mes%20de%20Lagrange.pdf"
+  },
+  {
+    "name": "CH 11 : Applications linéaires",
+    "lesson": "Application linéaire donnée par l’image d’une base",
+    "link": "https://api.prepaprofs.com/api/download/Application%20lin%C3%A9aire%20donn%C3%A9e%20par%20l%E2%80%99image%20d%E2%80%99une%20base.pdf"
+  },
+  {
+    "name": "CH 11 : Applications linéaires",
+    "lesson": "Noyau prescrit",
+    "link": "https://api.prepaprofs.com/api/download/Noyau%20prescrit.pdf"
+  },
+  {
+    "name": "CH 11 : Applications linéaires",
+    "lesson": "Dériva.tion",
+    "link": "https://api.prepaprofs.com/api/download/D%C3%A9riva.tion.pdf"
+  },
+  {
+    "name": "CH 11 : Applications linéaires",
+    "lesson": "Applications . linéaires dans un espace des polynômes ",
+    "link": "https://api.prepaprofs.com/api/download/Applications%20.%20lin%C3%A9aires%20dans%20un%20espace.pdf"
+  },
+  {
+    "name": "CH 11 : Applications linéaires",
+    "lesson": "Automorphisme d.e Rn [ X ] et de R [ X ]",
+    "link": "https://api.prepaprofs.com/api/download/Automorphisme%20d.e%20Rn%20%5B%20X%20%5D%20et%20de%20R%20%5B%20X%20%5D.pdf"
+  },
+  {
+    "name": "CH 11 : Applications linéaires",
+    "lesson": "polynômes ,Base, Automorphisme ",
+    "link": "https://api.prepaprofs.com/api/download/polynomes%20,Base,%20Automorphisme%20.pdf"
+  },
+  {
+    "name": "CH 12 : Matrices et applications linéaires",
+    "lesson": "Matrices, produits et composition",
+    "link": "https://api.prepaprofs.com/api/download/Matrices,%20produits%20et%20composition.pdf"
+  },
+  {
+    "name": "CH 12 : Matrices et applications linéaires",
+    "lesson": "Algèbre linéaire 1",
+    "link": "https://api.prepaprofs.com/api/download/Algebre%20lineaire%201.pdf"
+  },
+  {
+    "name": "CH 12 : Matrices et applications linéaires",
+    "lesson": "Algèbre linéaire 2",
+    "link": "https://api.prepaprofs.com/api/download/Algebre%20lineaire%202.pdf"
+  },
+  {
+    "name": "CH 12 : Matrices et applications linéaires",
+    "lesson": "Donnée par une matrice",
+    "link": "https://api.prepaprofs.com/api/download/Donn%C3%A9e%20par%20une%20matrice.pdf"
+  },
+  {
+    "name": "CH 12 : Matrices et applications linéaires",
+    "lesson": "Réduction",
+    "link": "https://api.prepaprofs.com/api/download/R%C3%A9duction.pdf"
+  },
+  {
+    "name": "CH 12 : Matrices et applications linéaires",
+    "lesson": "Application linéaire définie sur les matrices ",
+    "link": "https://api.prepaprofs.com/api/download/Application%20lin%C3%A9aire%20d%C3%A9finie%20sur%20les%20matrices%20.pdf"
+  },
+  {
+    "name": "CH 12 : Matrices et applications linéaires",
+    "lesson": "Matrice à diagonale dominante",
+    "link": "https://api.prepaprofs.com/api/download/Matrice%20%C3%A0%20diagonale%20dominante.pdf"
+  },
+  {
+    "name": "CH 12 : Matrices et applications linéaires",
+    "lesson": "Base adaptée à un endomorphisme dont le carré est nul",
+    "link": "https://api.prepaprofs.com/api/download/Base%20adapt%C3%A9e%20%C3%A0%20un%20endomorphisme%20dont%20le%20carr%C3%A9%20est%20nul.pdf"
+  },
+  {
+    "name": "CH 12 : Matrices et applications linéaires",
+    "lesson": "Exemple d'endomorphisme nilpotent",
+    "link": "https://api.prepaprofs.com/api/download/Exemple%20d'endomorphisme%20nilpotent.pdf"
+  },
+  {
+    "name": "CH 12 : Matrices et applications linéaires",
+    "lesson": "Exemple d'endomorphisme de IRn[X]",
+    "link": "https://api.prepaprofs.com/api/download/Exemple%20d'endomorphisme%20de%20IRn%5BX%5D.pdf"
+  },
+  {
+    "name": "CH 12 : Matrices et applications linéaires",
+    "lesson": "Exemple d'endomorphisme de IRn[X]",
+    "link": "https://api.prepaprofs.com/api/download/Exemple%20d'endomorphisme%20de%20IRn%5BX%5D.pdf"
+  },
+  {
+    "name": "CH 12 : Matrices et applications linéaires",
+    "lesson": "Kerf=Kerf²",
+    "link": "https://api.prepaprofs.com/api/download/kerf=kerf%C2%B2.pdf"
+  },
+  {
+    "name": "CH 12 : Matrices et applications linéaires",
+    "lesson": "Application trace",
+    "link": "https://api.prepaprofs.com/api/download/Application%20trace.pdf"
+  },
+  {
+    "name": "CH 12 : Matrices et applications linéaires",
+    "lesson": "Endomorphisme nilpotent ",
+    "link": "https://api.prepaprofs.com/api/download/Endomorphisme%20nilpotent.pdf"
+  },
+  {
+    "name": "CH 12 : Matrices et applications linéaires",
+    "lesson": "Puissance d'une matrice",
+    "link": "https://api.prepaprofs.com/api/download/Puissance%20d'une%20matrice.pdf"
+  },
+  {
+    "name": "CH 12 : Matrices et applications linéaires",
+    "lesson": "polynôme de Lagrange",
+    "link": "https://api.prepaprofs.com/api/download/polynome%20de%20Lagrange.pdf"
+  },
+  {
+    "name": "CH 12 : Matrices et applications linéaires",
+    "lesson": "Composée et somme",
+    "link": "https://api.prepaprofs.com/api/download/Compos%C3%A9e%20et%20somme.pdf"
+  },
+  {
+    "name": "CH 12 : Matrices et applications linéaires",
+    "lesson": "PROBLEME   MINES-PONT",
+    "link": "https://api.prepaprofs.com/api/download/Extrait%20DS.pdf"
+  },
+  {
+    "name": "CH 12 : Matrices et applications linéaires",
+    "lesson": "TD -IPEIN EX1",
+    "link": "https://api.prepaprofs.com/api/download/TD%20-IPEIN%20EX1.pdf"
+  },
+  {
+    "name": "CH 12 : Matrices et applications linéaires",
+    "lesson": "TD IPEIN Ex 2",
+    "link": "https://api.prepaprofs.com/api/download/TD%20IPEIN%20Ex%202.pdf"
+  },
+  {
+    "name": "CH 12 : Matrices et applications linéaires",
+    "lesson": "TD  IPEIN  Exercice 3",
+    "link": "https://api.prepaprofs.com/api/download/TD%20%20IPEIN%20%20Exercice%203.pdf"
+  },
+  {
+    "name": "CH 12 : Matrices et applications linéaires",
+    "lesson": "TD  IPEIN  Exercice 4",
+    "link": "https://api.prepaprofs.com/api/download/TD%20%20IPEIN%20%20Exercice%204.pdf"
+  },
+  {
+    "name": "CH 12 : Matrices et applications linéaires",
+    "lesson": "TD  IPEIN  Exercice 5",
+    "link": "https://api.prepaprofs.com/api/download/TD%20%20IPEIN%20%20Exercice%205.pdf"
+  },
+  {
+    "name": "CH 12 : Matrices et applications linéaires",
+    "lesson": "TD  IPEIN  Exercice 6",
+    "link": "https://api.prepaprofs.com/api/download/TD%20%20IPEIN%20%20Exercice%206.pdf"
+  },
+  {
+    "name": "CH 12 : Matrices et applications linéaires",
+    "lesson": "TD  IPEIN  Exercice 7",
+    "link": "https://api.prepaprofs.com/api/download/TD%20%20IPEIN%20%20Exercice%207.pdf"
+  },
+  {
+    "name": "CH 12 : Matrices et applications linéaires",
+    "lesson": "TD IPEIN Exercice 8",
+    "link": "https://api.prepaprofs.com/api/download/TD%20IPEIN%20Exercice%208.pdf"
+  },
+  {
+    "name": "CH 12 : Matrices et applications linéaires",
+    "lesson": "TD  IPEIN  Exercice 9",
+    "link": "https://api.prepaprofs.com/api/download/TD%20%20IPEIN%20%20Exercice%209.pdf"
+  },
+  {
+    "name": "CH 12 : Matrices et applications linéaires",
+    "lesson": "TD  IPEIN  Exercice 10",
+    "link": "https://api.prepaprofs.com/api/download/TD%20%20IPEIN%20%20Exercice%2010.pdf"
+  },
+  {
+    "name": "CH 12 : Matrices et applications linéaires",
+    "lesson": "TD  IPEIN  Exercice 11",
+    "link": "https://api.prepaprofs.com/api/download/TD%20%20IPEIN%20%20Exercice%2011.pdf"
+  },
+  {
+    "name": "CH 12 : Matrices et applications linéaires",
+    "lesson": "TD  IPEIN  Exercice 12",
+    "link": "https://api.prepaprofs.com/api/download/TD%20%20IPEIN%20%20Exercice%2012.pdf"
+  }
+]
